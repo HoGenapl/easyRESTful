@@ -1,2 +1,2 @@
 <?php
-include "extend/init.php";
+//测试
