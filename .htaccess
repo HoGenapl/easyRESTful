@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteRule ^test.php$ test.php [L]
+
+RewriteRule ^.*$ route.php [qsa,nc]
